@@ -32,7 +32,7 @@ Iterate through the result array and print each element.
 ---
 
 ## Solution
-[White Board](assets/CodeChallenge1.jpg)
+[White Board](assets/array-reverse.jpg)
 
 ---
 
