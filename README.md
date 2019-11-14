@@ -1,5 +1,5 @@
 # Table of Contents
-=================
+---
 
 <!--ts-->
    * [Reverse an Array](#reverse-an-array)
@@ -32,7 +32,7 @@ Iterate through the result array and print each element.
 ---
 
 ## Solution
-[White Board screen shot](assets/CodeChallenge1.jpg)
+[White Board](assets/CodeChallenge1.jpg)
 
 ---
 
