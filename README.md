@@ -1,7 +1,12 @@
-##### Table of Contents
+# Table of Contents
+---
 
-* [Reverse an Array](#Reverse an Array)
-   
+<!--ts-->
+   * [Reverse an Array](#reverse-an-array)
+      * [Challenge](#challenge)
+      * [Approach And Efficiency](#approach-And-efficiency)
+      * [Solution](#solution)
+<!--te--> 
 
 
 
@@ -15,7 +20,7 @@ Do not use any inbuit function in java.
 
 ---
 
-## Approach & Efficiency
+## Approach And Efficiency
 
 First find a length of a given array.
 Write a java method to accept the arguments as given array and the length.
@@ -24,7 +29,11 @@ Iterate the given array from Length-1 until the first element.
 Store the each element in the reversed order.
 Iterate through the result array and print each element.
 
-[White Board screen shot](assets/CodeChallenge1.jpg)
+---
+
+## Solution
+[White Board](assets/CodeChallenge1.jpg)
+
 ---
 
 ## Setup
