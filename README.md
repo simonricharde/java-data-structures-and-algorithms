@@ -1,7 +1,10 @@
-##### Table of Contents
-
+# Table of Contents
+<!--ts-->
 * [Reverse an Array](#Reverse an Array)
-   
+ * [Challenge](#Challenge)
+ * [Approach & Efficiency](#Approach & Efficiency)
+ * [Solution](#Solution)
+<!--te-->   
 
 
 
@@ -24,7 +27,11 @@ Iterate the given array from Length-1 until the first element.
 Store the each element in the reversed order.
 Iterate through the result array and print each element.
 
+---
+
+## Solution
 [White Board screen shot](assets/CodeChallenge1.jpg)
+
 ---
 
 ## Setup
