@@ -1,10 +1,12 @@
 # Table of Contents
+=================
+
 <!--ts-->
-* [Reverse an Array](#Reverse-an-Array)
- * [Challenge](#Challenge)
- * [Approach & Efficiency](#Approach-&-Efficiency)
- * [Solution](#Solution)
-<!--te-->   
+   * [Reverse an Array](#reverse-an-array)
+      * [Challenge](#challenge)
+      * [Approach & Efficiency](#approach-and-efficiency)
+      * [Solution](#solution)
+<!--te--> 
 
 
 
