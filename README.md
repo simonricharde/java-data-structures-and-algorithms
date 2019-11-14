@@ -4,7 +4,7 @@
 <!--ts-->
    * [Reverse an Array](#reverse-an-array)
       * [Challenge](#challenge)
-      * [Approach & Efficiency](#approach-&-efficiency)
+      * [Approach And Efficiency](#approach-And-efficiency)
       * [Solution](#solution)
 <!--te--> 
 
@@ -20,7 +20,7 @@ Do not use any inbuit function in java.
 
 ---
 
-## Approach & Efficiency
+## Approach And Efficiency
 
 First find a length of a given array.
 Write a java method to accept the arguments as given array and the length.
