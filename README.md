@@ -1,6 +1,6 @@
 ##### Table of Contents
 
-[Reverse an Array](#Reverse an Array)
+* [Reverse an Array](#Reverse an Array)
    
 
 
