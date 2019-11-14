@@ -4,7 +4,7 @@
 <!--ts-->
    * [Reverse an Array](#reverse-an-array)
       * [Challenge](#challenge)
-      * [Approach & Efficiency](#approach-and-efficiency)
+      * [Approach & Efficiency](#approach-&-efficiency)
       * [Solution](#solution)
 <!--te--> 
 
