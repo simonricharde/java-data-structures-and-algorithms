@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayReverse",
+            "request": "launch",
+            "mainClass": "code401challenges.ArrayReverse",
+            "projectName": "code401challenges"
+        }
+    ]
+}
