@@ -1,8 +1,8 @@
 # Table of Contents
 <!--ts-->
-* [Reverse an Array](#Reverse an Array)
+* [Reverse an Array](#Reverse-an-Array)
  * [Challenge](#Challenge)
- * [Approach & Efficiency](#Approach & Efficiency)
+ * [Approach & Efficiency](#Approach-&-Efficiency)
  * [Solution](#Solution)
 <!--te-->   
 
