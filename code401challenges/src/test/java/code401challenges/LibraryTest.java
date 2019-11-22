@@ -7,8 +7,25 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class LibraryTest {
-    @Test public void testSomeLibraryMethod() {
-        Library classUnderTest = new Library();
-        assertTrue("someLibraryMethod should return 'true'", classUnderTest.someLibraryMethod());
+    @Test
+    public void testShiftArray4Items() {
+        ArrayShift arrayShiftTest = new ArrayShift();
+        int expectedArray [] = new int [] {2,4,5,6,8};
+        int actualArray [] = arrayShiftTest.insertShiftArray(new int[] {2,4,6,8}, 5);
+        for (int i=0; i< actualArray.length; i++) {
+
+                assertEquals("The element is not inserted in middle 4 Items ", expectedArray[i] ,actualArray[i]);
+            }
+    }
+
+    @Test
+    public void testShiftArray5Items() {
+        ArrayShift arrayShiftTest = new ArrayShift();
+        int expectedArray [] = new int [] {4,8,15,16,23,42};
+        int actualArray [] = arrayShiftTest.insertShiftArray(new int[] {4,8,15,23,42}, 16);
+        for (int i=0; i< actualArray.length; i++) {
+
+            assertEquals("The element is not inserted in middle 5 Items ", expectedArray[i] ,actualArray[i]);
+        }
     }
 }
