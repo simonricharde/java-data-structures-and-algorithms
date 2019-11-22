@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="code401challenges.LibraryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-11-22T06:09:17" hostname="SEA-1800026498" time="0.027">
+  <properties/>
+  <testcase name="testShiftArray4Items" classname="code401challenges.LibraryTest" time="0.027"/>
+  <system-out><![CDATA[Middle Index: 2
+ShiftedArray: 2
+ShiftedArray: 4
+ShiftedArray: 5
+ShiftedArray: 6
+ShiftedArray: 8
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
